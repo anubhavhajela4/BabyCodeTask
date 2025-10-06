@@ -70,7 +70,7 @@ export default function IELTSInstitute() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                  GlobalSpeak Academy
+                  IELTSXcel
                 </h1>
                 <p className="text-xs text-gray-500 font-medium">IELTS Excellence Center</p>
               </div>
