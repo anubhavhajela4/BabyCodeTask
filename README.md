@@ -1,22 +1,41 @@
-# BabyCodeTask
+IELTSXcel - React & Tailwind Homepage
+This project is a modern, fully responsive homepage for a fictional IELTS coaching institute called "IELTSXcel." It was built using React and styled with Tailwind CSS, focusing on a clean UI, professional design, and excellent code clarity.
 
-This project is built using **React + Vite**.
+hosted link - https://baby-code-task.vercel.app/
 
----
+✨ Features
+Modern & Professional Design: Clean layout with a professional color palette and typography.
 
-## React + Vite
+Fully Responsive: Looks great on all devices, from mobile phones to desktop screens.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Interactive Components: Smooth transitions and hover effects for a better user experience.
 
-Currently, two official plugins are available:
+Component-Based Structure: Clean and maintainable code organized into logical React components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Required Sections Included:
 
-## React Compiler
+Navigation Bar with a mobile-friendly hamburger menu.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+An engaging Hero Section with a clear call-to-action.
 
-## Expanding the ESLint configuration
+A section for Feature Cards with icons.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+A social-proof building Student Testimonials section.
+
+A comprehensive Footer with navigation links and social media icons.
+
+🎨 Design Choices
+Color Palette: The design uses a professional and trustworthy color scheme. A deep navy green acts as the primary color for text and backgrounds, creating a sense of expertise.
+
+Typography: The Poppins font (from Google Fonts) is used throughout the site. It's a modern sans-serif font that is highly readable and gives the page a clean, contemporary feel.
+
+Layout & Spacing: The design incorporates a generous amount of white space to avoid a cluttered look and improve readability. Sections are clearly defined, and a mobile-first approach ensures a seamless experience on any device.
+
+🛠️ Tech Stack
+React: A JavaScript library for building user interfaces.
+
+Tailwind CSS: A utility-first CSS framework for rapid UI development.
+
+React Icons: For including popular SVG icons.
+
+Vercel: For hosting the live demo.
